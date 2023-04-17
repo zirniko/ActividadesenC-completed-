@@ -1,0 +1,43 @@
+c:\users\temuco_lab2\documents\visual studio 2010\Projects\Actividad1\Actividad1\bin\Debug\Actividad1.exe.config
+c:\users\temuco_lab2\documents\visual studio 2010\Projects\Actividad1\Actividad1\bin\Debug\Actividad1.exe
+c:\users\temuco_lab2\documents\visual studio 2010\Projects\Actividad1\Actividad1\bin\Debug\Actividad1.pdb
+c:\users\temuco_lab2\documents\visual studio 2010\Projects\Actividad1\Actividad1\obj\x86\Debug\Actividad1.Properties.Resources.resources
+c:\users\temuco_lab2\documents\visual studio 2010\Projects\Actividad1\Actividad1\obj\x86\Debug\Actividad1.csproj.GenerateResource.Cache
+c:\users\temuco_lab2\documents\visual studio 2010\Projects\Actividad1\Actividad1\obj\x86\Debug\Actividad1.exe
+c:\users\temuco_lab2\documents\visual studio 2010\Projects\Actividad1\Actividad1\obj\x86\Debug\Actividad1.pdb
+c:\users\temuco_lab2\documents\visual studio 2010\Projects\Actividad1\Actividad1\obj\x86\Debug\Actividad1.Form1.resources
+C:\Users\temuco_lab2\Documents\Visual Studio 2010\Projects\Actividad1\Actividad1\obj\x86\Debug\Actividad1.csprojResolveAssemblyReference.cache
+C:\Users\temuco_lab2\Documents\Visual Studio 2010\Projects\Actividad1\Actividad1\obj\x86\Debug\Actividad1.Form2.resources
+C:\Users\temuco_lab2\Documents\Visual Studio 2010\Projects\Actividad1\Actividad1\obj\x86\Debug\Actividad1.Form3.resources
+C:\Users\abanyi\Desktop\ejercio compañeros\Actividad1 (completed)\Actividad1\bin\Debug\Actividad1.exe.config
+C:\Users\abanyi\Desktop\ejercio compañeros\Actividad1 (completed)\Actividad1\bin\Debug\Actividad1.exe
+C:\Users\abanyi\Desktop\ejercio compañeros\Actividad1 (completed)\Actividad1\bin\Debug\Actividad1.pdb
+C:\Users\abanyi\Desktop\ejercio compañeros\Actividad1 (completed)\Actividad1\obj\x86\Debug\Actividad1.csproj.AssemblyReference.cache
+C:\Users\abanyi\Desktop\ejercio compañeros\Actividad1 (completed)\Actividad1\obj\x86\Debug\Actividad1.Form1.resources
+C:\Users\abanyi\Desktop\ejercio compañeros\Actividad1 (completed)\Actividad1\obj\x86\Debug\Actividad1.Form2.resources
+C:\Users\abanyi\Desktop\ejercio compañeros\Actividad1 (completed)\Actividad1\obj\x86\Debug\Actividad1.Form3.resources
+C:\Users\abanyi\Desktop\ejercio compañeros\Actividad1 (completed)\Actividad1\obj\x86\Debug\Actividad1.Properties.Resources.resources
+C:\Users\abanyi\Desktop\ejercio compañeros\Actividad1 (completed)\Actividad1\obj\x86\Debug\Actividad1.csproj.GenerateResource.cache
+C:\Users\abanyi\Desktop\ejercio compañeros\Actividad1 (completed)\Actividad1\obj\x86\Debug\Actividad1.csproj.CoreCompileInputs.cache
+C:\Users\abanyi\Desktop\ejercio compañeros\Actividad1 (completed)\Actividad1\obj\x86\Debug\Actividad1.exe
+C:\Users\abanyi\Desktop\ejercio compañeros\Actividad1 (completed)\Actividad1\obj\x86\Debug\Actividad1.pdb
+C:\Users\abanyi\Desktop\ejercio compañeros\Actividad1 (completed)\Actividad1\obj\x86\Debug\Actividad1.Form4.resources
+C:\Users\abanyi\Desktop\ejercio compañeros\Actividad1 (completed)\Actividad1\obj\x86\Debug\Actividad1.Form5.resources
+C:\Users\abanyi\Desktop\ejercio compañeros\Actividad1 (completed)\Actividad1\obj\x86\Debug\Actividad1.Form6.resources
+C:\Users\abanyi\Desktop\ejercio compañeros\Actividad1 (completed)\Actividad1\obj\x86\Debug\Actividad1.Form7.resources
+C:\Users\abanyi\Desktop\mis cosas\2022 semestre 2\CLASE .net DENISSE\ejercio compañeros\Actividad1 (completed)\Actividad1\bin\Debug\Actividad1.exe.config
+C:\Users\abanyi\Desktop\mis cosas\2022 semestre 2\CLASE .net DENISSE\ejercio compañeros\Actividad1 (completed)\Actividad1\bin\Debug\Actividad1.exe
+C:\Users\abanyi\Desktop\mis cosas\2022 semestre 2\CLASE .net DENISSE\ejercio compañeros\Actividad1 (completed)\Actividad1\bin\Debug\Actividad1.pdb
+C:\Users\abanyi\Desktop\mis cosas\2022 semestre 2\CLASE .net DENISSE\ejercio compañeros\Actividad1 (completed)\Actividad1\obj\x86\Debug\Actividad1.csproj.AssemblyReference.cache
+C:\Users\abanyi\Desktop\mis cosas\2022 semestre 2\CLASE .net DENISSE\ejercio compañeros\Actividad1 (completed)\Actividad1\obj\x86\Debug\Actividad1.Form1.resources
+C:\Users\abanyi\Desktop\mis cosas\2022 semestre 2\CLASE .net DENISSE\ejercio compañeros\Actividad1 (completed)\Actividad1\obj\x86\Debug\Actividad1.Form2.resources
+C:\Users\abanyi\Desktop\mis cosas\2022 semestre 2\CLASE .net DENISSE\ejercio compañeros\Actividad1 (completed)\Actividad1\obj\x86\Debug\Actividad1.Form3.resources
+C:\Users\abanyi\Desktop\mis cosas\2022 semestre 2\CLASE .net DENISSE\ejercio compañeros\Actividad1 (completed)\Actividad1\obj\x86\Debug\Actividad1.Form4.resources
+C:\Users\abanyi\Desktop\mis cosas\2022 semestre 2\CLASE .net DENISSE\ejercio compañeros\Actividad1 (completed)\Actividad1\obj\x86\Debug\Actividad1.Form5.resources
+C:\Users\abanyi\Desktop\mis cosas\2022 semestre 2\CLASE .net DENISSE\ejercio compañeros\Actividad1 (completed)\Actividad1\obj\x86\Debug\Actividad1.Form6.resources
+C:\Users\abanyi\Desktop\mis cosas\2022 semestre 2\CLASE .net DENISSE\ejercio compañeros\Actividad1 (completed)\Actividad1\obj\x86\Debug\Actividad1.Form7.resources
+C:\Users\abanyi\Desktop\mis cosas\2022 semestre 2\CLASE .net DENISSE\ejercio compañeros\Actividad1 (completed)\Actividad1\obj\x86\Debug\Actividad1.Properties.Resources.resources
+C:\Users\abanyi\Desktop\mis cosas\2022 semestre 2\CLASE .net DENISSE\ejercio compañeros\Actividad1 (completed)\Actividad1\obj\x86\Debug\Actividad1.csproj.GenerateResource.cache
+C:\Users\abanyi\Desktop\mis cosas\2022 semestre 2\CLASE .net DENISSE\ejercio compañeros\Actividad1 (completed)\Actividad1\obj\x86\Debug\Actividad1.csproj.CoreCompileInputs.cache
+C:\Users\abanyi\Desktop\mis cosas\2022 semestre 2\CLASE .net DENISSE\ejercio compañeros\Actividad1 (completed)\Actividad1\obj\x86\Debug\Actividad1.exe
+C:\Users\abanyi\Desktop\mis cosas\2022 semestre 2\CLASE .net DENISSE\ejercio compañeros\Actividad1 (completed)\Actividad1\obj\x86\Debug\Actividad1.pdb
