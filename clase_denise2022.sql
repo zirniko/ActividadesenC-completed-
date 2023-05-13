@@ -3,7 +3,7 @@
 ---OJOOO FIJARSE QUE EN EL DESPLEGABE DE ARRIBA ESTE SELECICIONADA LA BACE DE DATOS "BDESCUELA" PARA CONFIRMAR DATOS
 CREATE DATABASE BDESCUELA 
 
-–--coloca la BD TURISMO en memoria para poder hacer modificaciones
+â€“--coloca la BD TURISMO en memoria para poder hacer modificaciones
 ---PASO 2
 USE BDESCUELA
 ---PASO 3
@@ -92,7 +92,7 @@ END
 
 --------DESDE AQUI SOLO ESTAN LOS EJEMPLOS PARA GUIARSE.
 
----->>>>CODIGO COMPAÑERO<<<<<<---------
+---->>>>CODIGO V2<<<<<<---------
 /*importante las claves primarias*/
                                                      /*ordenar todo*/
 CREATE TABLE MOD_LABORATORIO
@@ -137,7 +137,7 @@ exec InsertaLaboratorio '23', 'Piso 1', 1
 
 
 exec InsertaModulo 'Base de Datos', 'BD-0085', 1
----AÑADIDO MIO TABLALABORATORIO
+---AÃ‘ADIDO MIO TABLALABORATORIO
 
 ---FIN MIO
 CREATE PROCEDURE InsertaModulo
@@ -206,7 +206,7 @@ end
 drop procedure ListaLaboratorioTodo;
 ----!!!!!!!!!!!
 
---de lap profe
+--de lap V3
 create procedure ListaLaboratorioTodo
 as
 begin 
